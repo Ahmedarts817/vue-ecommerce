@@ -1,0 +1,725 @@
+[
+    {
+        "id": 14,
+        "categoryName": "Clocks",
+        "description": "Collection of clocks",
+        "imageUrl": "https://images.unsplash.com/photo-1585586463948-9e40851ed193?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "products": [
+            {
+                "id": 26,
+                "name": null,
+                "imageURL": null,
+                "price": 0.0,
+                "description": null
+            },
+            {
+                "id": 17,
+                "name": "Ancient Clock",
+                "imageURL": "https://images.unsplash.com/photo-1415604934674-561df9abf539?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8Y2xvY2tzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 1000.0,
+                "description": "This is a Historical clock"
+            },
+            {
+                "id": 23,
+                "name": "Digital clock",
+                "imageURL": null,
+                "price": 10.0,
+                "description": "test"
+            },
+            {
+                "id": 24,
+                "name": "asdasda",
+                "imageURL": "https://limitless-lake-55070.herokuapp.com/fileUpload/files/a5ce78f3-7c3d-48b0-9111-f81d1be32446.jfif",
+                "price": 32424.0,
+                "description": "qweqweqw"
+            },
+            {
+                "id": 12,
+                "name": "Wall Clock",
+                "imageURL": "https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Y2xvY2t8ZW58MHx8MHw%3D&auto=format&fit=crop&w=500&q=60",
+                "price": 2000.0,
+                "description": "This is a clock"
+            },
+            {
+                "id": 27,
+                "name": "name",
+                "imageURL": "imageURL",
+                "price": 2.0,
+                "description": "description"
+            },
+            {
+                "id": 28,
+                "name": "jin",
+                "imageURL": "jin",
+                "price": 9.0,
+                "description": "jin"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "categoryName": "Kites",
+        "description": "This is a collection of kites",
+        "imageUrl": "https://images.unsplash.com/photo-1534640881905-039ca1e21a81?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8a2l0ZXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "products": [
+            {
+                "id": 33,
+                "name": "Asperiores est qui d",
+                "imageURL": "",
+                "price": 50.0,
+                "description": "Possimus dolorem et"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "categoryName": "Books",
+        "description": "This section contains Books",
+        "imageUrl": "https://images.unsplash.com/photo-1524578271613-d550eacf6090?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8Ym9va3N8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "products": [
+            {
+                "id": 18,
+                "name": "Test1 ",
+                "imageURL": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80",
+                "price": 1000.0,
+                "description": "Best product ever "
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "categoryName": "Bags",
+        "description": "High Quality Bags",
+        "imageUrl": null,
+        "products": [
+            {
+                "id": 31,
+                "name": "j9",
+                "imageURL": "j9",
+                "price": 9.0,
+                "description": "j9"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "categoryName": "Groceries",
+        "description": "Find all your groceries here",
+        "imageUrl": "https://images.unsplash.com/photo-1543168256-418811576931?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Z3JvY2VyaWVzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "products": [
+            {
+                "id": 30,
+                "name": "jan",
+                "imageURL": "jan",
+                "price": 9.0,
+                "description": "jan"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "categoryName": "Biscuits",
+        "description": "Tasty Biscuits",
+        "imageUrl": "https://images.unsplash.com/photo-1531685932387-e60fae5f6163?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTN8fGJpc2N1aXRzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "products": [
+            {
+                "id": 32,
+                "name": "sj",
+                "imageURL": "sj",
+                "price": 11.0,
+                "description": "sj"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "categoryName": "Electronics",
+        "description": "Electronics",
+        "imageUrl": "https://images.unsplash.com/photo-1556656793-08538906a9f8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+        "products": [
+            {
+                "id": 10,
+                "name": "Iphoneasd",
+                "imageURL": "https://images.unsplash.com/photo-1556656793-08538906a9f8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+                "price": 1000.0,
+                "description": "This is a Iphone"
+            },
+            {
+                "id": 5,
+                "name": "demo200",
+                "imageURL": "https://images.unsplash.com/photo-1602526211905-6adc54adb8d2?ixid=MXwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHw5fHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 5000.0,
+                "description": "This is demo"
+            },
+            {
+                "id": 9,
+                "name": "Car",
+                "imageURL": "https://images.unsplash.com/photo-1502877338535-766e1452684a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2FyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 5001.0,
+                "description": "This is a car"
+            },
+            {
+                "id": 19,
+                "name": "string",
+                "imageURL": "string",
+                "price": 0.0,
+                "description": "string"
+            },
+            {
+                "id": 11,
+                "name": "fsdfsdfsd",
+                "imageURL": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+                "price": 2000.0,
+                "description": "This is a watch"
+            },
+            {
+                "id": 3,
+                "name": "Hello World test",
+                "imageURL": "https://images.unsplash.com/photo-1609584862854-57387c661076?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 120.0,
+                "description": "hello World this is test"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "categoryName": "12",
+        "description": "12",
+        "imageUrl": "12",
+        "products": []
+    },
+    {
+        "id": 11,
+        "categoryName": "asd",
+        "description": "asd",
+        "imageUrl": "asd",
+        "products": [
+            {
+                "id": 13,
+                "name": "LG TV",
+                "imageURL": "https://images.unsplash.com/photo-1571415060716-baff5f717c37?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8dHZ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 5000.0,
+                "description": "This is a TV"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "categoryName": "Кошки ",
+        "description": "These are Kites",
+        "imageUrl": "https://images.unsplash.com/photo-1600387822941-a6ac49b2f0a3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8a2l0ZXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "products": [
+            {
+                "id": 15,
+                "name": "Fruits",
+                "imageURL": "https://images.unsplash.com/photo-1609257574707-a3114f91cefe?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNnx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 1500.0,
+                "description": "Fruits"
+            },
+            {
+                "id": 16,
+                "name": "Ponniyin Selvan",
+                "imageURL": "https://dwtr67e3ikfml.cloudfront.net/bookCovers/8d0aebe488c9389b799f9c153bc05717ce2fa45f",
+                "price": 2500.0,
+                "description": "A great historical tamil novel by Amarar Kalki!"
+            },
+            {
+                "id": 2,
+                "name": "Ultrasonic sensor",
+                "imageURL": "https://images.unsplash.com/photo-1497997457905-3f85463eb0bc?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2Vuc29yfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 201.0,
+                "description": "Highly accurate"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "categoryName": "Cake",
+        "description": "This is Show",
+        "imageUrl": "shedcccc",
+        "products": [
+            {
+                "id": 21,
+                "name": "Cakeeee",
+                "imageURL": "Cake111",
+                "price": 3000.0,
+                "description": "This is Cakee"
+            },
+            {
+                "id": 20,
+                "name": "thisidsf",
+                "imageURL": "fdgd",
+                "price": 343.0,
+                "description": "dsfdgd"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "categoryName": "Coffee",
+        "description": "This is coffee",
+        "imageUrl": "CoffeePhoto",
+        "products": [
+            {
+                "id": 22,
+                "name": "cafe",
+                "imageURL": "heleee",
+                "price": 3000.0,
+                "description": "thisvfdbfgb"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "categoryName": "cv",
+        "description": "dsdcxvc",
+        "imageUrl": "dfd",
+        "products": []
+    },
+    {
+        "id": 24,
+        "categoryName": "Htet Htet Hlaing",
+        "description": "kkk",
+        "imageUrl": "222",
+        "products": []
+    },
+    {
+        "id": 25,
+        "categoryName": "fd",
+        "description": null,
+        "imageUrl": "afde",
+        "products": []
+    },
+    {
+        "id": 26,
+        "categoryName": "ff",
+        "description": "fvcccccccv",
+        "imageUrl": "dfsxc",
+        "products": [
+            {
+                "id": 7,
+                "name": "Demo",
+                "imageURL": "https://images.unsplash.com/photo-1469037784699-75dcff1cbf75?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjZ8fHRveXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 89.0,
+                "description": "Demo"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "categoryName": "akdfhosa",
+        "description": "df",
+        "imageUrl": "sd",
+        "products": []
+    },
+    {
+        "id": 28,
+        "categoryName": "mm",
+        "description": null,
+        "imageUrl": "oki",
+        "products": []
+    },
+    {
+        "id": 29,
+        "categoryName": "we",
+        "description": null,
+        "imageUrl": "df",
+        "products": []
+    },
+    {
+        "id": 30,
+        "categoryName": "aaaaqqqq",
+        "description": "aaaaqqqq",
+        "imageUrl": "https://miro.medium.com/max/1400/1*Pj1ezbBzQnG4NHlD0seaWg.png",
+        "products": []
+    },
+    {
+        "id": 31,
+        "categoryName": "gh",
+        "description": null,
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 32,
+        "categoryName": "Laptop Asus",
+        "description": "",
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 33,
+        "categoryName": "",
+        "description": "",
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 34,
+        "categoryName": "",
+        "description": "",
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 3,
+        "categoryName": "Television sets",
+        "description": "Television",
+        "imageUrl": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8dGVsZXZpc2lvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "products": []
+    },
+    {
+        "id": 8,
+        "categoryName": "Legos",
+        "description": "This is Demo category",
+        "imageUrl": "https://images.unsplash.com/photo-1560529178-855fa2041193?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTd8fHRveXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "products": [
+            {
+                "id": 1,
+                "name": "Arduino UNO",
+                "imageURL": "https://images.unsplash.com/photo-1608564697071-ddf911d81370?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzOHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 500.0,
+                "description": "Microcontroller board for starters."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "categoryName": "Toys",
+        "description": "This is demo test",
+        "imageUrl": "https://images.unsplash.com/photo-1545997281-2cfe4d4b740f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fHRveXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "products": [
+            {
+                "id": 6,
+                "name": "Toy",
+                "imageURL": "https://images.unsplash.com/photo-1563396983906-b3795482a59a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8dG95c3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 250.0,
+                "description": "This is an awesome toy"
+            },
+            {
+                "id": 8,
+                "name": "Toy",
+                "imageURL": "https://images.unsplash.com/photo-1517348159000-002b80abf80f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzV8fHRveXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 500.0,
+                "description": "This is a great Toy"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "categoryName": "Cool Toys",
+        "description": "Space for kids",
+        "imageUrl": null,
+        "products": []
+    },
+    {
+        "id": 5,
+        "categoryName": "Clothes test",
+        "description": "Clothes",
+        "imageUrl": null,
+        "products": []
+    },
+    {
+        "id": 6,
+        "categoryName": "Toys for kids",
+        "description": "Kids space",
+        "imageUrl": null,
+        "products": []
+    },
+    {
+        "id": 4,
+        "categoryName": "Shoes",
+        "description": "awesome Shoes",
+        "imageUrl": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c2hvZXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "products": []
+    },
+    {
+        "id": 35,
+        "categoryName": "AS",
+        "description": "as",
+        "imageUrl": "sas",
+        "products": []
+    },
+    {
+        "id": 36,
+        "categoryName": "asdf",
+        "description": null,
+        "imageUrl": "fdgg",
+        "products": []
+    },
+    {
+        "id": 37,
+        "categoryName": "hh",
+        "description": null,
+        "imageUrl": "lkgkn",
+        "products": []
+    },
+    {
+        "id": 38,
+        "categoryName": "Food",
+        "description": null,
+        "imageUrl": "D:\\Java Project(BS)\\picture\\instant food/burger.jpg",
+        "products": []
+    },
+    {
+        "id": 39,
+        "categoryName": "a",
+        "description": "d",
+        "imageUrl": "x",
+        "products": []
+    },
+    {
+        "id": 40,
+        "categoryName": "t",
+        "description": "test",
+        "imageUrl": "g",
+        "products": []
+    },
+    {
+        "id": 41,
+        "categoryName": "tu",
+        "description": "test1",
+        "imageUrl": "g",
+        "products": []
+    },
+    {
+        "id": 42,
+        "categoryName": "22",
+        "description": null,
+        "imageUrl": "lk",
+        "products": []
+    },
+    {
+        "id": 43,
+        "categoryName": "dswdw",
+        "description": "wrw",
+        "imageUrl": "rwrwr",
+        "products": []
+    },
+    {
+        "id": 44,
+        "categoryName": "cxx",
+        "description": "xxc",
+        "imageUrl": "xcxc",
+        "products": []
+    },
+    {
+        "id": 46,
+        "categoryName": "Electronic test",
+        "description": "my electronics",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/12/25/02/01/flower-7676712__340.jpg",
+        "products": []
+    },
+    {
+        "id": 47,
+        "categoryName": "electronics ",
+        "description": "hey",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/12/25/02/01/flower-7676712__340.jpg",
+        "products": []
+    },
+    {
+        "id": 48,
+        "categoryName": "electronics ",
+        "description": "hey",
+        "imageUrl": "https://cdn.pixabay.com/photo/2022/12/25/02/01/flower-7676712__340.jpg",
+        "products": []
+    },
+    {
+        "id": 49,
+        "categoryName": "test",
+        "description": "test",
+        "imageUrl": "test",
+        "products": []
+    },
+    {
+        "id": 50,
+        "categoryName": "jin",
+        "description": "jin",
+        "imageUrl": "jin",
+        "products": []
+    },
+    {
+        "id": 51,
+        "categoryName": "jan",
+        "description": "jan",
+        "imageUrl": "jan",
+        "products": []
+    },
+    {
+        "id": 13,
+        "categoryName": "Smartphone",
+        "description": "This contains all sartphones",
+        "imageUrl": "https://images.unsplash.com/photo-1510878933023-e2e2e3942fb0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80",
+        "products": [
+            {
+                "id": 14,
+                "name": "Samsung Galaxy ",
+                "imageURL": "https://images.unsplash.com/photo-1553179459-4514c0f52f41?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTR8fHNhbXN1bmclMjBzbWFydHBob25lfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 5000.0,
+                "description": "This is a Samsung Smartphone"
+            },
+            {
+                "id": 25,
+                "name": "jj smart phone",
+                "imageURL": "https://www.incimages.com/uploaded_files/image/1920x1080/getty_494481525_110854.jpg",
+                "price": 200.0,
+                "description": "jj is smart"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "categoryName": "Automobile",
+        "description": "Find all vehicles",
+        "imageUrl": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2Fyc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "products": [
+            {
+                "id": 4,
+                "name": "Tesla Car test",
+                "imageURL": "https://images.unsplash.com/photo-1600661653561-629509216228?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTl8fGV2fGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+                "price": 10000.0,
+                "description": "This is a Car"
+            },
+            {
+                "id": 29,
+                "name": "jin",
+                "imageURL": "jin",
+                "price": 7.0,
+                "description": "jin"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "categoryName": "nke",
+        "description": null,
+        "imageUrl": null,
+        "products": []
+    },
+    {
+        "id": 53,
+        "categoryName": "hiik",
+        "description": "",
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 54,
+        "categoryName": "dr",
+        "description": "",
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 55,
+        "categoryName": "hu",
+        "description": "",
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 56,
+        "categoryName": "yg",
+        "description": "",
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 57,
+        "categoryName": "gy",
+        "description": "",
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 59,
+        "categoryName": "Android",
+        "description": "Categories for Android Phone ",
+        "imageUrl": "https://lh3.googleusercontent.com/GTmuiIZrppouc6hhdWiocybtRx1Tpbl52eYw4l-nAqHtHd4BpSMEqe-vGv7ZFiaHhG_l4v2m5Fdhapxw9aFLf28ErztHEv5WYIz5fA",
+        "products": []
+    },
+    {
+        "id": 60,
+        "categoryName": "tes",
+        "description": "tes",
+        "imageUrl": "tes",
+        "products": []
+    },
+    {
+        "id": 61,
+        "categoryName": "tasdfdsf",
+        "description": "hdfhfg",
+        "imageUrl": "gjghjhgj",
+        "products": []
+    },
+    {
+        "id": 62,
+        "categoryName": "atgwers",
+        "description": "nasifuhasidfa",
+        "imageUrl": "oqwhjduqshdoq",
+        "products": []
+    },
+    {
+        "id": 63,
+        "categoryName": "d",
+        "description": "",
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 64,
+        "categoryName": "e",
+        "description": "",
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 65,
+        "categoryName": "eg",
+        "description": "",
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 66,
+        "categoryName": "egh",
+        "description": "",
+        "imageUrl": "",
+        "products": []
+    },
+    {
+        "id": 45,
+        "categoryName": "mice",
+        "description": "gaming mouse",
+        "imageUrl": "https://i.rtings.com/assets/pages/B3SMmNOk/best-wireless-gaming-mouse-202106-medium.jpg",
+        "products": []
+    },
+    {
+        "id": 67,
+        "categoryName": "ecom categ ",
+        "description": "ecom category",
+        "imageUrl": "https://www.cloudways.com/blog/wp-content/uploads/Ecommerce-Shopping-Infographics.png",
+        "products": []
+    },
+    {
+        "id": 68,
+        "categoryName": "AZXZX",
+        "description": "zXzxZx",
+        "imageUrl": "xzxzx",
+        "products": []
+    },
+    {
+        "id": 69,
+        "categoryName": "z",
+        "description": "z",
+        "imageUrl": "zaza",
+        "products": []
+    },
+    {
+        "id": 70,
+        "categoryName": "Toy",
+        "description": "dddd",
+        "imageUrl": "https://images.unsplash.com/photo-1517348159000-002b80abf80f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MzV8fHRveXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+        "products": []
+    }
+]
